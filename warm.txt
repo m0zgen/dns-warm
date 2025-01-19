@@ -1,8 +1,8 @@
 # [ OpenBLD.net Prewarm Domains  ]
-google.com
-facebook.com
-youtube.com
-github.com
 apple.com
-openai.com
 cloudflare.com
+facebook.com
+github.com
+google.com
+openai.com
+youtube.com
