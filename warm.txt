@@ -47,7 +47,6 @@ ajay.app
 akipress.org
 akvahold.ru
 alchemy.com
-alexgorbatchev.com
 alfabank.ru
 algolianet.com
 alibaba.com
@@ -81,7 +80,6 @@ animix.lol
 ankr.com
 ansa.it
 anthropic.com
-antpeak.com
 anydesk.com
 apihub.info
 apnews.com
@@ -584,6 +582,7 @@ likee.com
 likeevideo.ru
 line-apps.com
 linkedin.com
+www.linkedin.com
 listeamed.net
 live.com
 livejournal.com
