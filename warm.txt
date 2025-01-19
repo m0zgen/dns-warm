@@ -86,6 +86,7 @@ ankr.com
 ansa.it
 anthropic.com
 anydesk.com
+api.individual.githubcopilot.com
 apihub.info
 apnews.com
 app-analytics-services-att.com
@@ -107,6 +108,7 @@ artlitsei.com
 arzamas.academy
 asus.com
 atb.su
+atl-paas.net
 atlassian.com
 auth0.com
 auto.ru
@@ -193,6 +195,7 @@ cdn-kaspi.kz
 cdn-tinkoff.ru
 cdn.api.twitter.com
 cdn.ir
+cdn.oaistatic.com
 cdngslb.com
 cdnvideo.ru
 cecotec.dev
@@ -262,6 +265,7 @@ detmir.ru
 dev.to
 devby.io
 developer.apple.com
+developer.atlassian.com
 developers.cloudflare.com
 dewu.com
 dewucdn.com
@@ -378,6 +382,7 @@ flwr.app
 fmb.la
 focus.it
 fontawesome.com
+fonts.gstatic.com
 fonts.net
 foodpicasso.com
 foreca.com
@@ -419,6 +424,7 @@ giphy.com
 gismeteo.ru
 gist.github.com
 github.com
+github.githubassets.com
 github.io
 glav-element.ru
 globalsign.com
@@ -640,6 +646,8 @@ magnit.ru
 mail.ru
 main.jp
 mandrillapp.com
+maps.google.com
+maps.googleapis.com
 marieclaire.it
 marquiz.io
 marquiz.ru
@@ -806,6 +814,7 @@ pinterest.com
 piratbit.club
 pixhost.to
 pki.goog
+play.google.com
 play.itunes.apple.com
 playfamily.ru
 playground.com
@@ -1171,6 +1180,8 @@ worldoftanks.eu
 worldofwarships.com
 wp.com
 www.cloudns.net
+www.google.com
+www.gstatic.com
 www.linkedin.com
 www.outlook.com
 wxyzwebcams.com
