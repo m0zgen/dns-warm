@@ -17,8 +17,6 @@
 45ideas.it
 506.io
 511ny.org
-7tv.app
-7tv.io
 abbi.io
 abfallplus.de
 abfc-extension.com
@@ -26,7 +24,6 @@ ably.io
 accuweather.com
 activbank.tj
 adata.kz
-adblock.dev
 adblockforytextension.com
 adblockplus.dev
 adblockplus.org
@@ -470,7 +467,6 @@ hpconnected.com
 hpsmart.com
 hsselite.com
 huawei.com
-huop.link
 hyundai-ekibastuz.kz
 i2p.rocks
 iamcook.ru
