@@ -25,7 +25,6 @@ ably.io
 abuse.ch
 accuweather.com
 activbank.tj
-ada.openbld.net
 adata.kz
 adblockforytextension.com
 adblockplus.dev
@@ -764,7 +763,6 @@ oneplus.com
 onetrust.com
 openai.com
 openbittorrent.com
-openbld.net
 opentor.net
 opentor.org
 opera-api.com
@@ -877,7 +875,6 @@ revenuecat.com
 reviews.gift
 rezka-ua.tv
 rezka.ag
-ric.openbld.net
 riotgames.com
 roblox.com
 rollingstone.it
