@@ -4,5 +4,7 @@ cloudflare.com
 facebook.com
 github.com
 google.com
+login.microsoftonline.com
+microsoftonline.com
 openai.com
 youtube.com
