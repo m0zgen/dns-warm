@@ -10,6 +10,7 @@
 2day.kz
 2gis.com
 2gis.ru
+2gis.kz
 3dnews.ru
 3labs.it
 3plearning.com
@@ -21,6 +22,7 @@ abbi.io
 abfallplus.de
 abfc-extension.com
 ably.io
+abuse.ch
 accuweather.com
 activbank.tj
 adata.kz
@@ -29,6 +31,7 @@ adblockplus.dev
 adblockplus.org
 addr.tools
 adguard-dns.com
+admin.microsoft.com
 adobe.com
 adobe.io
 adtazblack.com
@@ -146,11 +149,13 @@ bittorrent.com
 bitwarden.com
 bk.ru
 blablacar.ru
+bld-status.sys-adm.in
 bleepingcomputer.com
 bleepstatic.com
 blinkist.com
 blizzard.com
 blocknative.com
+blog.cloudflare.com
 blogspot.com
 bloomberg.com
 bluemailapp.com
@@ -204,6 +209,7 @@ cloud.microsoft
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
+cloudns.net
 cloudpayments.ru
 clstorage.net
 cmpassport.com
@@ -243,7 +249,10 @@ deliveroo.com
 deltiasgaming.com
 demus.app
 detmir.ru
+dev.to
 devby.io
+developer.apple.com
+developers.cloudflare.com
 dewu.com
 dewucdn.com
 dexscreener.com
@@ -260,6 +269,7 @@ discord.com
 discord.gg
 discord.media
 discordapp.com
+discussions.apple.com
 disqus.com
 dkimwl.org
 dler.org
@@ -269,6 +279,7 @@ dnscheck.tools
 dnsleaktest.com
 dnswl.org
 docker.com
+docs.google.com
 doofinder.com
 dooodster.com
 dosbox.com
@@ -277,6 +288,7 @@ downloadly.ir
 dragonsofthevoid.com
 dreame.tech
 dreamteam.pw
+drive.google.com
 drive2.ru
 drom.ru
 dropbox.com
@@ -357,6 +369,7 @@ fonts.net
 foodpicasso.com
 foreca.com
 foreca.net
+forums.developer.apple.com
 forworker.monster
 fotmob.com
 fotpro135alto.com
@@ -379,6 +392,7 @@ garena.com
 gazzetta.it
 gazzettaobjects.it
 gcdn.co
+gemini.google.com
 geopop.it
 geotrust.com
 geronimo.su
@@ -388,6 +402,7 @@ getpocket.com
 gid.ru
 giphy.com
 gismeteo.ru
+gist.github.com
 github.com
 github.io
 glav-element.ru
@@ -471,6 +486,7 @@ iamcook.ru
 ibb.co
 icloud-content.com
 icloud.com
+id.atlassian.com
 ideogram.ai
 ilmeteo.it
 ilsole24ore.com
@@ -558,12 +574,14 @@ kufar.by
 kundelik.kz
 kunlunsl.com
 kwork.ru
+lab.sys-adm.in
 lalafo.kg
 larian.com
 lastpass.com
 launchdarkly.com
 launchpad.net
 leagueofgraphs.com
+learn.microsoft.com
 leechers-paradise.org
 lemanapro.ru
 lencr.org
@@ -574,6 +592,7 @@ level.travel
 lge.com
 lgthinq.com
 libreoffice.org
+licdn.com
 life360.com
 lifegate.it
 lifehacker.ru
@@ -582,9 +601,6 @@ likee.com
 likeevideo.ru
 line-apps.com
 linkedin.com
-www.linkedin.com
-media.licdn.com
-licdn.com
 listeamed.net
 live.com
 livejournal.com
@@ -614,6 +630,7 @@ mb9pzp.ru
 me.com
 meat-in.de
 meater.com
+media.licdn.com
 medium.com
 mee-dp6h8dp2.com
 meethue.com
@@ -672,6 +689,7 @@ netmonet.co
 newgrounds.com
 newneuro.ru
 newplayjj.com
+news.google.com
 news.ru
 nextcloud.com
 ngenix.net
@@ -727,7 +745,10 @@ oracle.com
 oraclecloud.com
 ospserver.net
 outdooractive.com
+outlook.cloud.microsoft
 outlook.com
+outlook.office.com
+outlook.office365.com
 overclockers.ru
 overwolf.com
 ovkuse.ru
@@ -864,6 +885,7 @@ send.tg
 sendbird.com
 senderscore.com
 sentry.io
+serverfault.com
 servicecdn.ru
 sex-studentki.tube
 sf-tools.com
@@ -911,6 +933,7 @@ srgssr.ch
 srvape.com
 ssl.com
 sstatic.net
+stackoverflow.com
 stardewvalleywiki.com
 stardock.net
 starline.ru
@@ -1001,6 +1024,7 @@ tor2me.info
 torproject.net
 torrent4me.com
 tradingview.com
+translate.google.com
 travniza.ru
 trbcdn.net
 trcmoskva.kz
@@ -1035,6 +1059,7 @@ unrealengine.com
 unsplash.com
 ura.news
 uribl.com
+urlhaus.abuse.ch
 usda.gov
 usembassy.gov
 userapi.com
@@ -1114,6 +1139,9 @@ worldnic.com
 worldoftanks.eu
 worldofwarships.com
 wp.com
+www.cloudns.net
+www.linkedin.com
+www.outlook.com
 wxyzwebcams.com
 wynd.network
 x-cdn-static.com
