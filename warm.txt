@@ -9,8 +9,8 @@
 1plus1.video
 2day.kz
 2gis.com
-2gis.ru
 2gis.kz
+2gis.ru
 3dnews.ru
 3labs.it
 3plearning.com
@@ -25,6 +25,7 @@ ably.io
 abuse.ch
 accuweather.com
 activbank.tj
+ada.openbld.net
 adata.kz
 adblockforytextension.com
 adblockplus.dev
@@ -68,6 +69,7 @@ alvolante.it
 amazon.com
 amazonaws.com
 amazontrust.com
+amd-infra.itunes.apple.com
 amosstudios.com
 amplitude.com
 ampproject.net
@@ -122,6 +124,7 @@ awmzone1.pro
 azure.com
 azureplayfab.com
 b-cdn.net
+bag.itunes.apple.com
 baidu.com
 bandcamp.com
 bank-rbk.com
@@ -173,6 +176,7 @@ browserguard.net
 btorrent.xyz
 bumbcdn.com
 bumble.com
+buy.itunes-apple.com.akadns.net
 c6gj-static.net
 cackle.me
 cadillaccanada.ca
@@ -183,6 +187,7 @@ canva.com
 capcut.com
 cardinalcommerce.com
 cardsmobile.ru
+carrierbundle.itunes.apple.com
 cdek.ru
 cdn-kaspi.kz
 cdn-tinkoff.ru
@@ -195,6 +200,8 @@ cecotec.es
 centos.org
 chat.ru
 chatgpt.com
+chrome.cloudflare-dns.com
+chromewebstore.googleapis.com
 cian.ru
 cibotoday.it
 cisco.com
@@ -204,6 +211,7 @@ citydrive.ru
 ckee.ru
 cldmail.ru
 clerk.io
+client-api.itunes.apple.com
 clipro.tv
 cloud.microsoft
 cloudflare-dns.com
@@ -223,6 +231,7 @@ cognitiveclass.ai
 com.ru
 comagic.ru
 comss.one
+config.teams.microsoft.com
 contentful.com
 controld.com
 convertio.co
@@ -240,6 +249,7 @@ dailyinnovation.biz
 datacloudmail.ru
 datahub-srgssr.ch
 dazn.com
+dcg.microsoft.com
 dday.it
 ddns.net
 debian.org
@@ -272,6 +282,7 @@ discordapp.com
 discussions.apple.com
 disqus.com
 dkimwl.org
+dl.delivery.mp.microsoft.com
 dler.org
 dns-shop.ru
 dns.google
@@ -304,6 +315,7 @@ ebay.com
 eclipse.dev
 eclipse.org
 eda.ru
+edge.microsoft.com
 edgecdn.ru
 edidomus.it
 edna.ru
@@ -318,6 +330,7 @@ emergetools.com
 emex.kz
 empiretattoo.ru
 en-carsauto.ru
+entitlements.itunes.apple.com
 entouaedon.com
 entrecode.de
 entrust.net
@@ -373,6 +386,7 @@ forums.developer.apple.com
 forworker.monster
 fotmob.com
 fotpro135alto.com
+fpinit.itunes.apple.com
 frankerfacez.com
 freefiremobile.com
 freepik.com
@@ -389,6 +403,7 @@ galaxus.ch
 gamberorosso.it
 ganymede-cg.net
 garena.com
+gateway.icloud.com
 gazzetta.it
 gazzettaobjects.it
 gcdn.co
@@ -484,6 +499,7 @@ hyundai-ekibastuz.kz
 i2p.rocks
 iamcook.ru
 ibb.co
+ic3.events.data.microsoft.com
 icloud-content.com
 icloud.com
 id.atlassian.com
@@ -494,11 +510,13 @@ imgarena.com
 imgix.net
 imgsmail.ru
 imhentai.xxx
+inappcheck.itunes.apple.com
 inappstory.ru
 incognia.com
 indulgenthampersuk.shop
 inf.re
 infomaniak.com
+init.itunes.apple.com
 instagram.com
 intel.com
 intercom.io
@@ -522,6 +540,7 @@ isoft.kz
 isupport.kz
 itch.io
 itunes-nocookie.com
+itunes.apple.com
 ivi.ru
 ivideon.com
 ixbt.com
@@ -654,6 +673,8 @@ mk.ru
 mkb.ru
 mkr-digital.by
 mob-trs.org
+mobile.events.data.microsoft.com
+mobile.pipe.aria.microsoft.com
 moex.com
 monitoryour.website
 mos.ru
@@ -665,6 +686,7 @@ msn.com
 mts.ru
 mult-fan.tv
 multicraft.world
+musicstatus.itunes.apple.com
 muzmaze.org
 muzvibe.org
 mvideo.ru
@@ -674,6 +696,7 @@ mycontakts.info
 myqcloud.com
 mywot.com
 mzstatic.com
+mzstorekit.itunes.apple.com
 naos.ink
 nasa.gov
 nationalbank.kz
@@ -726,6 +749,7 @@ okcdn.ru
 okko.tv
 olx.kz
 one.one
+one.one.one.one
 onefootball.com
 oneplus.com
 onetrust.com
@@ -763,6 +787,7 @@ paws.community
 paypal.com
 paypalobjects.com
 pbembed.me
+pd.itunes.apple.com
 pdc.com
 pddtest.kz
 peopletalk.ru
@@ -774,12 +799,14 @@ phoketgo.app
 photoroom.com
 pikabu.ru
 pikbest.com
+pim.microsoft.com
 pinimg.com
 pinpoll.com
 pinterest.com
 piratbit.club
 pixhost.to
 pki.goog
+play.itunes.apple.com
 playfamily.ru
 playground.com
 playrix.com
@@ -840,6 +867,7 @@ revenuecat.com
 reviews.gift
 rezka-ua.tv
 rezka.ag
+ric.openbld.net
 riotgames.com
 roblox.com
 rollingstone.it
@@ -867,6 +895,7 @@ samsung.kz
 samsungapps.com
 samsunghealth.com
 samsungotn.net
+sandbox.itunes.apple.com
 sasflix.ru
 savefrom.net
 savematic.com
@@ -887,6 +916,7 @@ senderscore.com
 sentry.io
 serverfault.com
 servicecdn.ru
+settings-win.data.microsoft.com
 sex-studentki.tube
 sf-tools.com
 sfunpay.com
@@ -986,6 +1016,7 @@ taplink.st
 taplink.ws
 tatte.kz
 tbank.ru
+teams.events.data.microsoft.com
 teams.microsoft.com
 techwarelabs.com
 tele2.kz
