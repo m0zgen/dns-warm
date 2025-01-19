@@ -23,6 +23,7 @@ abfallplus.de
 abfc-extension.com
 ably.io
 abuse.ch
+accounts.youtube.com
 accuweather.com
 activbank.tj
 adata.kz
@@ -86,6 +87,7 @@ ansa.it
 anthropic.com
 anydesk.com
 api.individual.githubcopilot.com
+api.vk.com
 apihub.info
 apnews.com
 app-analytics-services-att.com
@@ -633,6 +635,7 @@ livelib.ru
 livemaster.ru
 localhost.com
 locketcamera.com
+login.live.com
 login.microsoftonline.com
 lolesports.com
 loli.best
@@ -1182,6 +1185,7 @@ www.google.com
 www.gstatic.com
 www.linkedin.com
 www.outlook.com
+www.youtube.com
 wxyzwebcams.com
 wynd.network
 x-cdn-static.com
