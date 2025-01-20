@@ -290,8 +290,10 @@ ckee.ru
 clarity.ms
 cldmail.ru
 clerk.io
+clevergod.net
 client-api.itunes.apple.com
 clipro.tv
+cloud.google.com
 cloud.microsoft
 cloudflare-dns.com
 cloudflare.com
@@ -1160,6 +1162,7 @@ scrolloutf1.com
 seciron.com
 sectigo.com
 securitylab.ru
+securixy.kz
 segment.io
 semasu.net
 senate.gov
@@ -1484,6 +1487,7 @@ worldofwarships.com
 wp.com
 wsdvs.com
 wswebcdn.com
+www.clevergod.net
 www.cloudns.net
 www.google.com
 www.gstatic.com
