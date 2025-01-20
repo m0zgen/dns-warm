@@ -658,6 +658,7 @@ id5-sync.com
 ideogram.ai
 ilmeteo.it
 ilsole24ore.com
+im-api-sg.tiktok.com
 imgarena.com
 imgix.net
 imgsmail.ru
@@ -826,6 +827,7 @@ mastercard.com
 mathletics.com
 mb9pzp.ru
 mcafee.com
+mcs-va.tiktokv.com
 me.com
 meat-in.de
 meater.com
@@ -880,6 +882,7 @@ msftconnecttest.com
 msftncsi.com
 msidentity.com
 msn.com
+msrc.microsoft.com
 mtgglobals.com
 mts.ru
 mult-fan.tv
@@ -1486,6 +1489,7 @@ www.google.com
 www.gstatic.com
 www.linkedin.com
 www.outlook.com
+www.tiktok.com
 www.youtube.com
 wxyzwebcams.com
 wynd.network
