@@ -12,12 +12,15 @@
 2gis.kz
 2gis.ru
 3dnews.ru
+3gppnetwork.org
 3labs.it
 3plearning.com
 3y3s.net
 45ideas.it
 506.io
 511ny.org
+a2z.com
+aaplimg.com
 abbi.io
 abfallplus.de
 abfc-extension.com
@@ -33,6 +36,7 @@ adblockplus.org
 addr.tools
 adguard-dns.com
 admin.microsoft.com
+adnxs.com
 adobe.com
 adobe.io
 adtazblack.com
@@ -48,6 +52,9 @@ air-matters.com
 aitech1.ru
 ajax.systems
 ajay.app
+akadns.net
+akamai.net
+akamaiedge.net
 akipress.org
 akvahold.ru
 alchemy.com
@@ -66,6 +73,7 @@ alrosa.ru
 altaphoto.ru
 altel.kz
 alvolante.it
+amazon-adsystem.com
 amazon.com
 amazonaws.com
 amazontrust.com
@@ -91,12 +99,15 @@ api.vk.com
 apihub.info
 apnews.com
 app-analytics-services-att.com
+app-analytics-services.com
 app-measurement.com
 appcenter.ms
 apple-cloudkit.com
+apple-dns.net
 apple-mapkit.com
 apple.com
 apple.news
+applovin.com
 appraven.net
 appsflyer.com
 appsflyersdk.com
@@ -180,6 +191,8 @@ btorrent.xyz
 bumbcdn.com
 bumble.com
 buy.itunes-apple.com.akadns.net
+bytefcdn-oversea.com
+bytefcdn-ttpeu.com
 c6gj-static.net
 cackle.me
 cadillaccanada.ca
@@ -192,12 +205,15 @@ cardinalcommerce.com
 cardsmobile.ru
 carrierbundle.itunes.apple.com
 cdek.ru
+cdn-apple.com
 cdn-kaspi.kz
 cdn-tinkoff.ru
 cdn.api.twitter.com
 cdn.ir
 cdn.oaistatic.com
+cdn77.org
 cdngslb.com
+cdninstagram.com
 cdnvideo.ru
 cecotec.dev
 cecotec.es
@@ -221,6 +237,7 @@ cloud.microsoft
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
+cloudfront.net
 cloudns.net
 cloudpayments.ru
 clstorage.net
@@ -244,7 +261,9 @@ cookielaw.org
 coolccloud.com
 corbina.ru
 cra.cz
+crashlytics.com
 createjs.com
+criteo.com
 cspserver.net
 cybersec.pw
 d-cd.net
@@ -297,10 +316,13 @@ dnswl.org
 docker.com
 docs.ansible.com
 docs.google.com
+domain
 doofinder.com
 dooodster.com
 dosbox.com
 doscredobank.kg
+doubleclick.net
+doubleverify.com
 downloadly.ir
 dragonsofthevoid.com
 dreame.tech
@@ -413,6 +435,7 @@ garena.com
 gateway.icloud.com
 gazzetta.it
 gazzettaobjects.it
+gccdn.net
 gcdn.co
 gemini.google.com
 geopop.it
@@ -421,6 +444,7 @@ geronimo.su
 getcourse.ru
 gethornet.com
 getpocket.com
+ggpht.com
 gid.ru
 giphy.com
 gismeteo.ru
@@ -435,6 +459,7 @@ gmail.com
 gmal.app
 gmx.net
 godaddy.com
+google-analytics.com
 google.by
 google.com
 google.de
@@ -445,9 +470,11 @@ google.kg
 google.kz
 google.net
 google.ru
+googleadservices.com
 googleapis.com
 googledomains.com
 googlemail.com
+googlesyndication.com
 googletagmanager.com
 googleusercontent.com
 googlevideo.com
@@ -472,6 +499,8 @@ gstatic.com
 gtimg.cn
 gu-st.ru
 gumroad.com
+gvt1.com
+gvt2.com
 gx.me
 habeas.com
 habr.com
@@ -693,6 +722,7 @@ mozilla.com
 mozilla.org
 mrqz.me
 msedge.net
+msftncsi.com
 msn.com
 mts.ru
 mult-fan.tv
@@ -792,6 +822,7 @@ ozon.ru
 paddle.com
 pages.dev
 palmplaystore.com
+pangle.io
 parkingpay.ch
 paws.community
 paypal.com
@@ -851,6 +882,7 @@ pyrus.com
 qarash.uz
 qcloud.com
 qfilms.ru
+qlivecdn.com
 qpic.cn
 qq.com
 quad9.net
@@ -867,6 +899,7 @@ rancher.com
 razer.com
 rbc.ua
 rbcv7s.ru
+rbxcdn.com
 recaptcha.net
 redd.it
 reddit.com
@@ -880,7 +913,9 @@ rezka-ua.tv
 rezka.ag
 riotgames.com
 roblox.com
+rocket-cdn.com
 rollingstone.it
+root-servers.net
 rostaxi.org
 rp5.ru
 rpcpool.com
@@ -888,6 +923,7 @@ rt.ru
 rtcd.me
 rtl.it
 ru.actor
+rubiconproject.com
 rule34.xxx
 run.app
 russianfood.com
@@ -984,6 +1020,7 @@ statuspage.io
 stbm.it
 steamcommunity.com
 steampowered.com
+steamserver.net
 steelseries.com
 stepik.org
 storifyme.xyz
@@ -1015,6 +1052,7 @@ symantec.com
 t-bank-app.ru
 t.co
 t.me
+taboola.com
 tabor.ru
 tagesschau.de
 taglitics.com
@@ -1048,6 +1086,10 @@ threewoodslose.com
 ticktick.com
 tidal.com
 tiktok.com
+tiktokcdn-eu.com
+tiktokcdn.com
+tiktokeu-cdn.com
+tiktokrow-cdn.com
 tiktokv.com
 tildacdn.com
 tinkoff.ru
@@ -1065,12 +1107,14 @@ tor2me.info
 torproject.net
 torrent4me.com
 tradingview.com
+trafficmanager.net
 translate.google.com
 travniza.ru
 trbcdn.net
 trcmoskva.kz
 troywell.org
 truecaller.com
+ttlivecdn.com
 tudocdn.net
 tumblr.com
 turbopages.org
@@ -1086,6 +1130,7 @@ uchi.ru
 ucoz.net
 ueiwsp.com
 ufanet.ru
+ui.com
 uiscom.ru
 ultimouomo.com
 unattr.com
@@ -1142,6 +1187,7 @@ vps-vids.com
 vseinstrumenti.ru
 vtb.ru
 vtt.ru
+vungle.com
 w.org
 w3.org
 walletconnect.com
@@ -1225,6 +1271,7 @@ youtrack.cloud
 youtu.be
 youtube.com
 ys7.com
+ytimg.com
 zabbix.com
 zakon.kz
 zayb.ru
