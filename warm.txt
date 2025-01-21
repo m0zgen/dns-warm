@@ -1079,3 +1079,4 @@ zolotayakorona.ru
 zoom.us
 zorvian.com
 zspeed-cdn.com
+gov.kz

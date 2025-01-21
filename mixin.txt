@@ -1,4 +1,4 @@
-# [ OpenBLD.net Prewarm Domains  ]
+# [ Automate Generated Mixin Domain list ]
 126.net
 163.com
 1iu.ru
