@@ -30,6 +30,7 @@ aiden.cx
 aihelp.net
 air-matters.com
 aitech1.ru
+aka.ms
 akadns.net
 akamai.net
 akamaiedge.net
@@ -182,6 +183,7 @@ cloud.microsoft
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
+cloudflarestatus.com
 cloudfront.net
 cloudns.net
 cloudpayments.ru
@@ -377,6 +379,7 @@ googleusercontent.com
 googlevideo.com
 gorodovoy.ru
 gotinder.com
+gov.kz
 gov.uk
 gpmdata.ru
 gqitalia.it
@@ -1079,4 +1082,3 @@ zolotayakorona.ru
 zoom.us
 zorvian.com
 zspeed-cdn.com
-gov.kz
