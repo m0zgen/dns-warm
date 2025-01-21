@@ -148,6 +148,7 @@ cecotec.dev
 cecotec.es
 centos.org
 chat.ru
+chatgpt.com
 cian.ru
 cibotoday.it
 cisco.com
@@ -605,6 +606,7 @@ one.one
 one.one.one.one
 onedrive.com
 onetrust.com
+openai.com
 opendns.com
 opentor.org
 opera.com
