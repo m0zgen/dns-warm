@@ -1,9 +1,15 @@
 # DNS Warm
 
-Most ~popular domains which cat be used for DNS warm up.
+Selective ~popular collection domains.
 
-It uses OpenBLD.net, Cloudflare Rank, and own research to find the most popular or specified domains.
+# Lists
 
-# What is DNS Warm?
+- `warm.txt` - Static list which contains ~1000 popular domains
+- `mixin.txt` - Automate generated list which contains ~1000 popular domains from different sources (excluding `warm.txt` items)
 
-DNS Warm is a process of resolving DNS records for a list of domains. It is used to warm up the DNS cache of a DNS resolver. This is useful when you are using a new DNS resolver or you want to warm up the cache of an existing DNS resolver.
+# Sources
+
+- Cloudflare: https://radar.cloudflare.com/
+- Cisco Umbrella: https://umbrella-static.s3-us-west-1.amazonaws.com/index.html
+- Moz: https://moz.com/top500
+- Tranco: https://tranco-list.eu/
