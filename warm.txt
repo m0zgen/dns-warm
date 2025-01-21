@@ -1,6 +1,4 @@
 # [ OpenBLD.net Prewarm Domains  ]
-1000.menu
-139.com
 1cb.kz
 1clickvpn.net
 1drv.com
@@ -84,16 +82,15 @@ asus.com
 atb.su
 auth0.com
 auto.ru
-av380.net
 avast.com
 aviasales.com
 aviasales.ru
 aviasales.uz
 avito.ru
 avito.st
-avm.de
 avs.io
-avsxappcaptiveportal.com
+azure.com
+azure.microsoft.com
 b-cdn.net
 baidu.com
 bandcamp.com
@@ -104,13 +101,11 @@ battle.net
 bazaarvoice.com
 bbc.com
 bcc.kz
-bdoughan.com
 bdstatic.com
 beeline.kz
 beetv.kz
 benzinga.com
 bing.com
-binred1.com
 bitbucket.org
 bitdefender.com
 bitdefender.net
@@ -139,7 +134,6 @@ browserguard.net
 bumbcdn.com
 bumble.com
 c6gj-static.net
-cackle.me
 cadillaccanada.ca
 cadillacspecsnews.com
 calcionapoli24.it
@@ -187,7 +181,6 @@ createjs.com
 ctc.ru
 cybersec.pw
 daily.dev
-dailyinnovation.biz
 dazn.com
 dday.it
 ddns.net
@@ -215,7 +208,6 @@ discord.gg
 discussions.apple.com
 disqus.com
 dl.delivery.mp.microsoft.com
-dler.org
 dns-shop.ru
 dnsleaktest.com
 dnswl.org
@@ -390,9 +382,7 @@ ideogram.ai
 ilmeteo.it
 ilsole24ore.com
 imgarena.com
-imgix.net
 imgsmail.ru
-imhentai.xxx
 inappcheck.itunes.apple.com
 inappstory.ru
 incognia.com
@@ -483,6 +473,7 @@ lenta.ru
 lesta.ru
 letsplayers.ru
 level.travel
+lg.com
 lge.com
 libreoffice.org
 life360.com
@@ -521,6 +512,7 @@ meater.com
 mediatek.com
 medium.com
 mee-dp6h8dp2.com
+meet.google.com
 meethue.com
 megasaraymounterciyes.com
 mehanoid.pro
@@ -528,10 +520,7 @@ meitu.com
 meitudata.com
 meizu.com
 membrana-cdn.media
-meraki.com
-merlion.com
 metamask.io
-metro-cc.ru
 mfms.ru
 mi.com
 microsoft.com
@@ -672,6 +661,7 @@ pocketnet.app
 popcorn-tracker.org
 popmechanic.ru
 porofessor.gg
+portal.azure.com
 postman.com
 powerbi.com
 pozdravok.com
@@ -727,8 +717,6 @@ rp5.ru
 rpcpool.com
 rt.ru
 rtl.it
-ru.actor
-rule34.xxx
 russianfood.com
 rustore.ru
 rutab.net
@@ -838,10 +826,7 @@ superwall.com
 surbl.org
 surfshark.com
 surriel.com
-sushiwok.ru
 sutochno.ru
-svao-ix.ru
-swissarmy.com
 swisscom.ch
 symantec.com
 synology.com
@@ -861,7 +846,6 @@ tatte.kz
 tbank.ru
 teams.microsoft.com
 teamviewer.com
-techwarelabs.com
 tele2.kz
 telecom.kz
 telega.one
@@ -941,14 +925,10 @@ uubb.website
 uxfeedback.ru
 v.network
 vb.kg
-veonadx.com
 verisign.com
 versuni.com
 vewd.com
 viber.com
-victorinox.com
-vidello.net
-viiavsqv.com
 vimeo.com
 virtonomica.ru
 virtualearth.net
@@ -963,8 +943,6 @@ vk.ru
 vkvideo.ru
 vmware.com
 vniiftri.ru
-vpn-now.com
-vps-vids.com
 vseinstrumenti.ru
 vtb.ru
 vtt.ru
@@ -974,8 +952,6 @@ walletconnect.com
 walletconnect.org
 wargaming.net
 warrior-hdrezka.net
-waveform.com
-waze.com
 wb.ru
 weather.com
 webex.com
@@ -986,7 +962,6 @@ weglot.com
 weplayapp.com
 westernunion.com
 wetter.com
-wg-gesucht.de
 wikimedia.org
 wikipedia.org
 wildberries.ru
@@ -1005,6 +980,8 @@ wp.com
 www.clevergod.net
 www.cloudns.net
 www.google.com
+www.jetbrains.com
+www.lg.com
 www.linkedin.com
 www.outlook.com
 www.tiktok.com
@@ -1014,13 +991,8 @@ wynd.network
 x.com
 x5.ru
 xboxlive.com
-xhamster.com
-xhcdn.com
-xiaohongshu.com
 xiaomi.com
 xiaomiwear.com
-xmcsrv.net
-xyzverse.io
 ya.ru
 yahoo.com
 yandex.by
@@ -1041,10 +1013,8 @@ youla.ru
 youtrack.cloud
 youtu.be
 youtube.com
-ys7.com
 zabbix.com
 zakon.kz
-zayb.ru
 zeit.de
 zendesk.com
 zerocdn.com
@@ -1052,4 +1022,3 @@ zolotayakorona.ru
 zoom.us
 zorvian.com
 zspeed-cdn.com
-zvu4no.org
