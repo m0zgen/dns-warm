@@ -48,7 +48,6 @@ aliyun.com
 allarknow.online
 almexecm.com
 alrosa.ru
-altaphoto.ru
 altel.kz
 alvolante.it
 amazon-adsystem.com
@@ -590,7 +589,6 @@ muzvibe.org
 mvideo.ru
 my.games
 mycdn.me
-mycontakts.info
 mywot.com
 mzstatic.com
 nasa.gov
@@ -837,7 +835,6 @@ spotify.com
 spring.io
 srdnlen.it
 srf.ch
-srgssr.ch
 ssl.com
 sstatic.net
 stackoverflow.com
@@ -971,7 +968,6 @@ unsplash.com
 ura.news
 uribl.com
 urlhaus.abuse.ch
-usda.gov
 usembassy.gov
 userapi.com
 utorrent.com
@@ -1076,7 +1072,6 @@ zabbix.com
 zakon.kz
 zeit.de
 zendesk.com
-zerocdn.com
 zolotayakorona.ru
 zoom.us
 zorvian.com
