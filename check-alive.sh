@@ -14,6 +14,11 @@ NXDOMAIN_LIST="nxdomains.log"
 echo "Checking domains for NXDOMAIN..."
 echo "------------------------------"
 
+# Check passed arguments for domain list file
+if [ $# -gt 0 ]; then
+    DOMAIN_LIST="$1"
+fi
+
 if [ ! -f "$DOMAIN_LIST" ]; then
     echo "Error: File '$DOMAIN_LIST' not found."
     exit 1
@@ -27,6 +32,11 @@ fi
 while IFS= read -r domain; do
     # Skip empty lines
     if [ -z "$domain" ]; then
+        continue
+    fi
+
+    # If line contains # or is a comment, skip it
+    if [[ "$domain" =~ ^# ]]; then
         continue
     fi
 
