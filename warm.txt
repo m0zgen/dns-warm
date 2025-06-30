@@ -1,4 +1,3 @@
-
 1cb.kz
 1clickvpn.net
 1drv.com
@@ -619,7 +618,6 @@ mobile.enpf.kz
 mobile.kaspi.kz
 mock-bank-2.stage.npck.kz
 moex.com
-monitoryour.website
 mozilla.com
 mozilla.org
 mrqz.me
