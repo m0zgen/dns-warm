@@ -483,10 +483,6 @@ kaspi.kz
 kassacre.com
 kazanexpress.ru
 kcell.kz
-keenetic.cloud
-keenetic.com
-keenetic.pro
-keenetic.ru
 kemono.su
 keycaptcha.com
 kia.uz
@@ -681,7 +677,6 @@ ntp.org
 ntppool.org
 nur.kz
 nutaku.net
-nuum.ru
 nvidia.com
 nyt.com
 nytimes.com
@@ -771,7 +766,6 @@ powerbi.com
 pozdravok.com
 premier.one
 premierinn.com
-pretty-fly4.com
 prezzibenzina.it
 prg.kz
 primarysharp.com
@@ -786,7 +780,6 @@ pusher.com
 pyrus.com
 qarash.uz
 qfilms.ru
-qq.com
 quad9.net
 qualtrics.com
 quattroruote.it
@@ -810,7 +803,6 @@ retraced.com
 revenuecat.com
 reviews.gift
 rezka-ua.tv
-rezka.ag
 ria.ru
 riotgames.com
 roblox.com
@@ -827,7 +819,6 @@ rutab.net
 rutor.org
 rutube.ru
 s.kaspi.kz
-s5o.ru
 salesforceliveagent.com
 samokat.ru
 samsung.com
@@ -1044,7 +1035,6 @@ utorrent.com
 utv.ru
 uubb.website
 uxfeedback.ru
-v.network
 vb.kg
 verisign.com
 versuni.com
@@ -1118,8 +1108,6 @@ www.outlook.com
 www.tiktok.com
 www.youtube.com
 www.zakon.kz
-wxyzwebcams.com
-wynd.network
 x.com
 x5.ru
 xboxlive.com
