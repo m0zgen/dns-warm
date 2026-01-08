@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Настройки путей
-COLLECTED_DIR="./collected_roots"  # папка, куда ansible сложил файлы
-EXISTING_WARM="./warm.txt"        # ваш текущий файл
+COLLECTED_DIR="./collected_roots"  # ansible collected
+EXISTING_WARM="./warm.txt"        # final
 TEMP_FILE="combined_temp.txt"
 
 echo "Начинаю объединение списков доменов..."

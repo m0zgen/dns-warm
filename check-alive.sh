@@ -8,62 +8,61 @@ PATH=$PATH:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
 SCRIPT_PATH=$(cd `dirname "${BASH_SOURCE[0]}"` && pwd); cd $SCRIPT_PATH
 
 # -------------------------------------------------------------------------------------------\
-DOMAIN_LIST="warm.txt"
+DOMAIN_LIST="${1:-warm.txt}"
 NXDOMAIN_LIST="nxdomains.log"
-
-echo "Checking domains for NXDOMAIN..."
-echo "------------------------------"
-
-# Check passed arguments for domain list file
-if [ $# -gt 0 ]; then
-    DOMAIN_LIST="$1"
-fi
 
 if [ ! -f "$DOMAIN_LIST" ]; then
     echo "Error: File '$DOMAIN_LIST' not found."
     exit 1
 fi
 
-# Clear the NXDOMAIN list file if it exists
-if [ -f "$NXDOMAIN_LIST" ]; then
-    > "$NXDOMAIN_LIST"
-fi
+> "$NXDOMAIN_LIST"
 
-while IFS= read -r domain; do
-    # Skip empty lines
-    if [ -z "$domain" ]; then
-        continue
-    fi
+echo "Checking domains..."
+echo "------------------------------"
 
-    # If line contains # or is a comment, skip it
-    if [[ "$domain" =~ ^# ]]; then
-        continue
-    fi
+while IFS= read -r domain || [ -n "$domain" ]; do
+    # Очистка строки от пробелов и пропуск комментариев
+    domain=$(echo "$domain" | xargs)
+    [[ -z "$domain" || "$domain" =~ ^# ]] && continue
 
-    # Use 'host' to check the domain
-    # '-t A' requests the A record
-    # 2>/dev/null redirects stderr to /dev/null to avoid outputting errors if the domain does not exist
-    if host -t A "$domain" >/dev/null 2>&1; then
-        echo "$domain: ✅ AVAILABLE"
-    else
-        echo "$domain: ❌ NXDOMAIN (or another DNS error). Trying dig..."
+    # - +short: лаконичный вывод
+    # - +tries=1 +time=2: чтобы скрипт не висел долго на мертвых доменах
+    # - Используем Google DNS (8.8.8.8) напрямую для стабильности
+    
+    # Выполняем запрос и сохраняем ВЕСЬ ответ в переменную, чтобы не дергать сеть дважды
+    RAW_OUTPUT=$(dig @8.8.8.8 "$domain" +tries=1 +time=2 +noall +comments)
+    
+    # Извлекаем RCODE: 
+    # 1. Ищем строку со 'status:'
+    # 2. Вырезаем все, что ДО 'status: '
+    # 3. Берем первое слово (код) и удаляем из него запятую
+    RCODE=$(echo "$RAW_OUTPUT" | grep "status:" | sed 's/.*status: //' | awk '{print $1}' | tr -d ',')
 
-        DIG_OUTPUT=$(dig +noall +answer +rcdcode "$domain" A 2>/dev/null)
-
-        # Check the RCODE return code from dig
-        if echo "$DIG_OUTPUT" | grep -q "status: NXDOMAIN"; then
-            echo "$domain: ❌ NXDOMAIN (via dig)"
-        elif [ -z "$DIG_OUTPUT" ]; then
-            echo "$domain: ❌ Unavailable / DNS error (dig returned no data)"
-        else
-            echo "DNS error ❌ / Unreachable (via dig, status: $(echo "$DIG_OUTPUT" | grep "status:" | awk '{print $NF}'))"
-        fi
-
-        # Export name to nxdomain list
+    # Если RCODE пустой, значит случился таймаут или нет связи
+    if [ -z "$RCODE" ]; then
+        echo "❓ $domain: TIMEOUT / NO CONNECTION"
         echo "$domain" >> "$NXDOMAIN_LIST"
-        
+        continue
     fi
+
+    case "$RCODE" in
+        "NOERROR")
+            echo "✅ $domain: EXISTS"
+            ;;
+        "NXDOMAIN")
+            echo "❌ $domain: NOT FOUND"
+            echo "$domain" >> "$NXDOMAIN_LIST"
+            ;;
+        *)
+            echo "⚠️ $domain: STATUS $RCODE"
+            echo "$domain" >> "$NXDOMAIN_LIST"
+            # Для отладки можно раскомментировать следующую строку:
+            # echo "Debug: $RAW_OUTPUT" 
+            ;;
+    esac
+
 done < "$DOMAIN_LIST"
 
 echo "------------------------------"
-echo "Checking completed."
+echo "Done. Dead domains saved to $NXDOMAIN_LIST"
