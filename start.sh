@@ -24,3 +24,4 @@ grep -vFf nxdomains.log warm.txt > clean_warm.txt; mv clean_warm.txt warm.txt; e
 
 # Final
 ./check-alive.sh warm.txt
+

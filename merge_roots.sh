@@ -1,4 +1,12 @@
 #!/bin/bash
+# Author: Yevgeniy Goncharov aka xck, http://sys-adm.in
+# Collect & Merge domains data
+
+# Sys env / paths / etc
+# -------------------------------------------------------------------------------------------\
+PATH=$PATH:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
+SCRIPT_PATH=$(cd `dirname "${BASH_SOURCE[0]}"` && pwd)
+# -------------------------------------------------------------------------------------------\
 
 # Настройки путей
 COLLECTED_DIR="./collected_roots"  # ansible collected
