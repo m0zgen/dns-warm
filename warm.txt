@@ -227,7 +227,6 @@ cdn-one.org
 cdn-s3.adata.kz
 cdn-tinkoff.ru
 cdn-vk.ru
-cdn.ir
 cdn.kino.kz
 cdn77.org
 cdninstagram.com
