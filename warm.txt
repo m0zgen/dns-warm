@@ -924,12 +924,9 @@ opera-api.com
 opera-api2.com
 opera.software
 operacdn.com
-opr.gg
 optable.co
 oracle.com
 oraclecloud.com
-org.cn
-org.mt
 orpheus.ru
 ospserver.net
 outdooractive.com
