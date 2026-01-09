@@ -26,6 +26,8 @@ adblockplus.dev
 adblockplus.org
 addoncrop.com
 adguard-dns.com
+abuse.ch
+urlhaus.abuse.ch
 adjust.com
 admin.microsoft.com
 adobe.com
@@ -738,7 +740,6 @@ luxuretv.com
 m.egov.kz
 m.kolesa.kz
 m4bank.com
-mage.space
 mail.google.com
 mail.kisc.kz
 mail.npck.kz
@@ -749,21 +750,16 @@ mandrillapp.com
 maps.google.com
 maps.googleapis.com
 marieclaire.it
-marquiz.io
-marquiz.ru
 masterspro.app
 maxthon.com
 maxthonimg.com
 mb.beeline.kz
-mb9pzp.ru
 mc.expert-apm.kz
-me.com
 meat-in.de
 meater.com
 media-amazon.com
 mediatek.com
 medium.com
-mee-dp6h8dp2.com
 meet.google.com
 meethue.com
 megaplan.ru
@@ -779,8 +775,9 @@ mfms.ru
 mfrcdn.com
 mgts.by
 mgw.gov.kz
-mi-img.com
 mi.com
+mi-img.com
+www.mi.com
 miccuu.com
 microsoft.com
 microsoftpersonalcontent.com
@@ -839,7 +836,6 @@ nayada.ru
 nbcuni.com
 ndmsystems.com
 nemo.kz
-net.cn
 netacad.com
 netflix.com
 netflix.net
