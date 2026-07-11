@@ -2,6 +2,10 @@
 
 Selective ~popular collection domains.
 
+# Deprecation Notice
+
+This project is no longer actively maintained.
+
 # Lists
 
 - `warm.txt` - Static list which contains ~1000 popular domains
